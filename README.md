@@ -76,17 +76,3 @@ This project successfully demonstrated the application of various machine learni
 - Explore transfer learning techniques to apply the models to different geographical regions.
 - Enhance data preprocessing techniques to handle missing or noisy data more effectively.
 
-## Installation and Usage
-To run this project, follow these steps:
-
-Clone the repository:
-
-bash
-Copy code
-git clone https://https://github.com/manoshiraha19/Cropland-Identification-and-Yield-Prediction-using-Multimodal-ML.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd Final_Model
-
